@@ -28,4 +28,4 @@ A dating platform based on interests and hobbies with mandatory name, birthdate,
     </footer>
 </body>
 </html>
-
+<link rel="stylesheet" href="css/style.css">
