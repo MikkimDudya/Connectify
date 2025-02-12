@@ -5,7 +5,7 @@ A dating platform based on interests and hobbies with mandatory name, birthdate,
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Мой сайт</title>
+    <title>Connectify</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
